@@ -1,6 +1,6 @@
 # Olá, eu sou o José Honório! 👋
 
-[cite_start]**Desenvolvedor Fullstack Node.js / TypeScript** focado em arquitetura limpa e resultados mensuráveis. [cite: 1, 2, 20]
+**Desenvolvedor Fullstack Node.js / TypeScript** focado em arquitetura limpa e resultados mensuráveis.
 
 ---
 
@@ -10,9 +10,9 @@
 
 ### 🚀 Sobre Mim
 
-- [cite_start]**Experiência Profissional**: Trajetória iniciada em 2019, evoluindo para especialização sólida no ecossistema Node.js e TypeScript. [cite: 18]
-- [cite_start]**Impacto Mensurável**: Autor de soluções que geraram **84% de aumento de eficiência** em operações reais. [cite: 19]
-- [cite_start]**Filosofia de Código**: Comprometido com a entrega de código limpo, testável e escalável, aplicando padrões de projeto e boas práticas. [cite: 20]
+- **Experiência Profissional**: Trajetória iniciada em 2019, evoluindo para especialização sólida no ecossistema Node.js e TypeScript.
+- **Impacto Mensurável**: Autor de soluções que geraram **84% de aumento de eficiência** em operações reais.
+- **Filosofia de Código**: Comprometido com a entrega de código limpo, testável e escalável, aplicando padrões de projeto e boas práticas.
 - **Educação**: Formação em **Análise e Desenvolvimento de Sistemas** pela UNIPAR e especialização no **curso.dev** de Filipe Deschamps.
 
 ---
@@ -30,21 +30,28 @@
 
 ---
 
+### Minha Página
+
+[Link para minha página José Honorio](https://informaticajv.vercel.app/portfolio)
+
 ### 📂 Projetos em Destaque
 
-- [cite_start]**[RGA Doces e Salgados](https://github.com/devHonorio)**: Sistema Fullstack para gerenciamento de pedidos, clientes, endereços, produtos e financeiro. [cite: 14]
-- [cite_start]**[NestJS Template](https://github.com/devHonorio/nest-template)**: Template NestJs com Swagger, Zod e autenticação JWT. [cite: 13]
-- [cite_start]**[Blog Pessoal](https://github.com/devHonorio/blog)**: Blog pessoal desenvolvido para compartilhamento de conteúdo. [cite: 15]
+- _[`nest-template`](https://github.com/devHonorio/nest-template)_:Boilerplate profissional com Swagger, Zod e autenticação JWT, focado em acelerar o desenvolvimento de APIs escaláveis.
+
+- **`Miguel Açaí:`** Sistema fullstack de cardápio e gerenciamento de pedidos, composto por
+  - [`miguel-frontend`](https://github.com/devHonorio/miguel-frontend)
+  - [`miguel-backend`](https://github.com/devHonorio/miguel-backend)
+
+- **`RGA:`** Sistema fullstack robusto para gerenciamento de pedidos, clientes, endereços, produtos e financeiro. Foi o projeto central que permitiu alcançar 84% de aumento de eficiência em operações reais.
 
 ---
 
 ### 📫 Contato & Logística
 
-- [cite_start]**Localização**: Rua Papa João Paulo II 538, Água Verde, Ampére, PR. [cite: 3]
-- [cite_start]**Telefone**: (44) 9 9869-2094. [cite: 4, 5]
-- [cite_start]**E-mail**: [honorio.dev@gmail.com](mailto:honorio.dev@gmail.com). [cite: 6]
-- [cite_start]**Disponibilidade**: Disponível para **Home Office**, realocação ou deslocamento para cidades próximas.
+- **Cidade**: Ampére, PR.
+- **E-mail**: [honorio.dev@gmail.com](mailto:honorio.dev@gmail.com).
+- **Disponibilidade**: Disponível para **Home Office**, realocação ou deslocamento para cidades próximas.
 
 ---
 
-[cite_start]_“Comprometido com a engenharia de software e a entrega de valor real.”_ [cite: 18, 20]
+_“Comprometido com a engenharia de software e a entrega de valor real.”_
