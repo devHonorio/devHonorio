@@ -3,21 +3,23 @@ name: generate animation
 on:
   # rodar automaticamente a cada 24 horas
   schedule:
-    - cron: "0 */24 * * *" 
-  
+    - cron: "0 0 * * *"
+
   # permite rodar manualmente a qualquer momento
   workflow_dispatch:
-  
+
   # rodar a cada push no branch main
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
+
     steps:
       # gera o jogo da cobrinha a partir das contribuições do usuário
       - name: generate github-contribution-grid-snake.svg
@@ -29,7 +31,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+
       # envia o arquivo gerado para o branch 'output'
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
